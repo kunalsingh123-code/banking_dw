@@ -1,0 +1,201 @@
+customer_id,customer_name,email,phone,city,state,date_of_birth,customer_type
+CUST00001,Aarush Sastry,anay80@example.net,9375238308,Dindigul,Gujarat,1987-02-03,individual
+CUST00002,Ayush Grover,abaria@example.org,5011322823,Muzaffarnagar,Gujarat,1982-02-28,individual
+CUST00003,Lipika Narasimhan,amaira50@example.com,5299291597,Cuttack,Madhya Pradesh,1990-05-16,premium
+CUST00004,Adya Khare,xmahal@example.org,7776455559,Chittoor,Karnataka,1999-10-19,premium
+CUST00005,Tanvi Nadig,jchad@example.net,7760247079,Singrauli,Delhi,1990-10-21,premium
+CUST00006,Dipta Sampath,jhalakchawla@example.com,0353246822,Amroha,Rajasthan,1994-04-26,individual
+CUST00007,Ansh Wadhwa,yashvi41@example.net,0524378856,Kochi,Gujarat,1995-06-19,individual
+CUST00008,Chandran Karpe,libniganguly@example.net,8574637055,Tadipatri,Maharashtra,1995-06-12,individual
+CUST00009,Yashvi Mistry,ekbal24@example.net,5192597076,Vadodara,Maharashtra,2001-04-17,individual
+CUST00010,Dalaja Chacko,oviya55@example.com,9917173920,Mysore,Gujarat,1978-05-02,business
+CUST00011,Owen Mukherjee,jagatshah@example.net,4246161956,Lucknow,Gujarat,1995-03-01,individual
+CUST00012,Rachana Bobal,padmanabhanqadim@example.net,5885174433,Chittoor,Gujarat,1997-10-26,premium
+CUST00013,Urmi Nagi,tbrar@example.org,5669644911,Gopalpur,Rajasthan,1989-10-18,business
+CUST00014,Wazir Deshmukh,swaminathanagastya@example.net,9370547471,Alwar,Madhya Pradesh,1990-07-09,business
+CUST00015,Aashi Barad,wsandhu@example.com,9685234335,Salem,Telangana,1990-07-17,individual
+CUST00016,David Buch,mistrymanbir@example.org,1686468335,Srikakulam,Delhi,1967-11-08,individual
+CUST00017,Hemang Radhakrishnan,warinderborra@example.net,0132663445,Raurkela Industrial Township,Madhya Pradesh,1967-04-05,premium
+CUST00018,Isha Chauhan,timothy67@example.org,7626769883,Pune,Tamil Nadu,1963-12-23,individual
+CUST00019,Champak Dar,abeerdugar@example.com,1119646383,Udupi,Rajasthan,1997-05-02,business
+CUST00020,Charvi Behl,nathanielkarpe@example.net,6188182757,Nellore,Maharashtra,1990-03-21,individual
+CUST00021,Dominic Sha,xavier18@example.com,6704519328,Nandyal,Tamil Nadu,1973-09-24,business
+CUST00022,Anirudh Bains,dorashivansh@example.net,8609378555,Dhule,Tamil Nadu,1996-06-06,premium
+CUST00023,Dayamai Agate,edhitharai@example.org,2797966826,Suryapet,Tamil Nadu,2001-10-08,premium
+CUST00024,Girik Wadhwa,wamble@example.org,9629471324,Thane,Maharashtra,2001-05-31,premium
+CUST00025,Unnati Sastry,deolaishani@example.com,0570473916,Warangal,Madhya Pradesh,2004-08-26,individual
+CUST00026,Diya Mukhopadhyay,chaudhryvamakshi@example.com,4474979607,Muzaffarpur,Rajasthan,1985-07-20,business
+CUST00027,Jyoti Parikh,banjeet99@example.org,9359882780,Madanapalle,Delhi,1993-07-30,individual
+CUST00028,Yoshita Parmar,tiwariamaira@example.com,0000703142,Siliguri,Telangana,1964-01-21,premium
+CUST00029,Tanveer Gola,ojasvi04@example.com,5266787767,Baranagar,Rajasthan,1991-11-07,premium
+CUST00030,Anvi Sharma,frederick95@example.net,4017156116,Sikar,Maharashtra,1992-05-19,individual
+CUST00031,Theodore Seth,piyer@example.net,7381449844,Pimpri-Chinchwad,Tamil Nadu,1976-10-23,premium
+CUST00032,Xalak Atwal,chandranganguly@example.net,0642591348,Anantapuram,Maharashtra,1971-03-24,business
+CUST00033,Sathvik Lanka,xchoudhry@example.org,9569429410,Bhubaneswar,Maharashtra,1972-08-26,premium
+CUST00034,Udant Bali,prabhakarcharles@example.com,0650982794,Durgapur,Maharashtra,1978-07-09,premium
+CUST00035,Madhav Bora,agastya00@example.com,7760540911,Suryapet,Rajasthan,1962-04-24,business
+CUST00036,Radha Mistry,balaishanvi@example.net,8658620456,Barasat,Madhya Pradesh,1982-04-16,premium
+CUST00037,Ikbal Kaur,wishisuresh@example.net,2855131448,Karnal,Tamil Nadu,2004-11-21,premium
+CUST00038,Vedant Pathak,rushil14@example.net,0616511614,Moradabad,Tamil Nadu,1973-03-27,individual
+CUST00039,Timothy Sinha,bhatnagarwidisha@example.net,3082884074,Bhalswa Jahangir Pur,Telangana,1985-06-05,business
+CUST00040,Aarini Sodhi,harinakshi16@example.com,5764264829,Akola,Telangana,1990-04-09,premium
+CUST00041,Ekaja Kapadia,khatridarpan@example.org,5674212162,Pondicherry,Rajasthan,1996-10-16,premium
+CUST00042,Zaitra Kata,jainkamala@example.com,3037906978,Karnal,Rajasthan,1967-04-12,business
+CUST00043,Christopher Jayaraman,charvi06@example.org,6073438908,Meerut,Tamil Nadu,1968-12-09,individual
+CUST00044,Prisha Varty,nathanielwali@example.org,0366573340,Dhanbad,Karnataka,2005-11-16,business
+CUST00045,Zayyan Kannan,xuppal@example.org,1891623306,Haldia,Gujarat,1970-08-09,premium
+CUST00046,Januja Dugar,ishanvi48@example.net,1082824435,Shimla,Gujarat,1980-10-16,individual
+CUST00047,Meera Keer,hkrishnan@example.org,5087338588,Kollam,Telangana,1963-03-19,premium
+CUST00048,Charita Minhas,yachanachad@example.com,0614992053,North Dumdum,Madhya Pradesh,1997-01-21,premium
+CUST00049,Umang Nagarajan,niharika13@example.com,9111864759,Alwar,Maharashtra,1988-08-27,business
+CUST00050,Chaitanya Nigam,baradbina@example.net,8885133864,Lucknow,Karnataka,2002-11-24,individual
+CUST00051,Unni Parekh,gourmaanav@example.org,9595881372,Alwar,Tamil Nadu,1983-06-13,individual
+CUST00052,Wridesh Krishnan,mandaupasna@example.net,3149824857,Dindigul,Rajasthan,1988-09-18,business
+CUST00053,Indrajit Varty,aarnav85@example.net,9714170380,Amroha,Rajasthan,1977-05-31,premium
+CUST00054,Meghana Chatterjee,bhavini77@example.org,9391089606,Pallavaram,Rajasthan,1975-02-13,individual
+CUST00055,Maanas Narang,ekalingarattan@example.org,7698460884,Jhansi,Karnataka,1998-07-04,premium
+CUST00056,Wridesh Reddy,chowdhuryleena@example.com,2969815365,Sultan Pur Majra,Telangana,1960-03-10,individual
+CUST00057,Qabil Mane,orindernarasimhan@example.net,2386258040,Ambattur,Telangana,2005-11-11,individual
+CUST00058,Alexander Sagar,ravaldeepa@example.org,2640316478,Ghaziabad,Karnataka,1965-04-22,individual
+CUST00059,Jonathan D’Alia,bahriimaran@example.org,6412274479,Karimnagar,Rajasthan,1985-11-17,premium
+CUST00060,Adweta Oza,hritikmanne@example.net,9060389122,Nagpur,Delhi,2001-07-03,business
+CUST00061,Aarini Toor,yatan35@example.org,7749201877,Vijayanagaram,Maharashtra,1987-04-29,individual
+CUST00062,Xiti Sen,hemanginikashyap@example.org,3949976495,Tinsukia,Gujarat,1987-10-16,business
+CUST00063,Banjeet Munshi,kapurparth@example.com,3860132811,Anand,Rajasthan,1977-05-15,premium
+CUST00064,Rajata Bora,radhika57@example.net,3052873654,Muzaffarpur,Madhya Pradesh,2000-08-02,business
+CUST00065,Kamya Thaman,alanka@example.com,8079735093,Alwar,Gujarat,2001-10-27,premium
+CUST00066,Baghyawati Patla,bsarna@example.org,7911951350,Gangtok,Telangana,1969-03-10,business
+CUST00067,Anamika Date,mekhalalata@example.com,5688304184,Agartala,Gujarat,1970-03-30,business
+CUST00068,Om Karnik,shroffeta@example.net,1275449510,Alappuzha,Tamil Nadu,1970-08-18,premium
+CUST00069,Ekantika Bumb,davechandani@example.net,3711222187,Kolkata,Gujarat,1992-05-05,business
+CUST00070,Wakeeta Raghavan,bnarang@example.com,7366091148,Pali,Madhya Pradesh,1967-11-10,individual
+CUST00071,Ekbal Ghose,varsha03@example.org,1762997929,Malegaon,Telangana,1969-04-13,individual
+CUST00072,Ekapad Bera,manyarajagopalan@example.net,0536597647,Rourkela,Karnataka,1969-05-01,individual
+CUST00073,Warjas Ganesan,palisha@example.org,7996233530,Guna,Telangana,1984-09-16,individual
+CUST00074,Vansha Mistry,cnigam@example.net,8609935570,Alappuzha,Maharashtra,1964-08-20,business
+CUST00075,Aadi Thaman,yagneshnaik@example.com,5972438441,Bihar Sharif,Delhi,1984-01-16,premium
+CUST00076,Ira Din,pmanne@example.org,1609494996,Vijayawada,Rajasthan,1963-05-18,business
+CUST00077,Bahadurjit Choudhary,deybanjeet@example.net,9630978801,Vijayanagaram,Delhi,2005-05-08,individual
+CUST00078,Unnati Yogi,rameshadvaith@example.com,9011520144,Farrukhabad,Madhya Pradesh,1966-05-31,individual
+CUST00079,Ikshita Taneja,chandresh79@example.net,6829503331,Panvel,Maharashtra,1982-12-26,individual
+CUST00080,Hemal Chander,ranajai@example.net,1535488471,Chinsurah,Rajasthan,2000-04-19,individual
+CUST00081,Logan Merchant,atharv13@example.com,1360600425,Sonipat,Rajasthan,1979-02-25,business
+CUST00082,Zilmil Warrior,bawachandran@example.net,1672429467,Buxar,Gujarat,1998-09-03,premium
+CUST00083,Alexander Gupta,prashadunni@example.com,7032417415,Guntur,Gujarat,2000-02-18,individual
+CUST00084,Gaurav Chawla,wbalasubramanian@example.com,1035028170,Orai,Tamil Nadu,1971-03-10,individual
+CUST00085,Brijesh Prabhakar,bhavyaratta@example.org,4080988592,South Dumdum,Madhya Pradesh,1960-06-21,premium
+CUST00086,Devika Kala,bishakhakhosla@example.org,1734041797,Jorhat,Karnataka,1983-11-12,premium
+CUST00087,Inaya Mohan,chanchal59@example.com,4933110824,Serampore,Rajasthan,2004-12-25,premium
+CUST00088,Gaurav Varkey,amital@example.com,0969776460,Raurkela Industrial Township,Madhya Pradesh,1966-08-11,premium
+CUST00089,Samaksh Kale,chawlaoscar@example.net,1962593646,Vijayanagaram,Madhya Pradesh,2000-11-11,individual
+CUST00090,Jhalak Gokhale,nehadhawan@example.com,1127908103,Alwar,Karnataka,1981-05-17,premium
+CUST00091,Ojasvi Kalla,trivenitara@example.org,0055676550,Patiala,Gujarat,1996-08-03,individual
+CUST00092,Ekaja Sinha,tanveerchaudhuri@example.com,2312432161,Ranchi,Delhi,1989-08-05,individual
+CUST00093,Neha Mani,lavanya43@example.com,0062085006,Ujjain,Rajasthan,1960-11-16,business
+CUST00094,Ishanvi Krishnamurthy,nchacko@example.org,0040918073,Shimoga,Tamil Nadu,2001-06-28,business
+CUST00095,Farhan Muni,hayresamarth@example.net,7086610868,Solapur,Madhya Pradesh,1986-02-10,business
+CUST00096,Noah Gokhale,kadechakradhar@example.org,8537288111,Sultan Pur Majra,Gujarat,1965-03-18,business
+CUST00097,Ansh Dhar,ramanmanbir@example.com,3881926276,Faridabad,Tamil Nadu,1982-08-17,business
+CUST00098,Yahvi Ganesan,zsinha@example.org,5332465544,Sirsa,Madhya Pradesh,1980-01-29,individual
+CUST00099,Bhavani Kapadia,irarai@example.net,8783639754,Jaipur,Karnataka,1998-10-11,individual
+CUST00100,Ekansh Desai,vchakrabarti@example.net,6249551520,Dibrugarh,Telangana,1972-05-18,premium
+CUST00101,Andrew Dhawan,ktoor@example.net,5819787706,Visakhapatnam,Telangana,1984-11-17,premium
+CUST00102,Chaitanya Prashad,gwarrior@example.net,4994917863,Durg,Karnataka,1998-10-05,individual
+CUST00103,Ishani Badami,wakeetachada@example.com,4105334744,Parbhani,Maharashtra,1971-05-20,individual
+CUST00104,Chaitaly Iyengar,hroy@example.org,6485995212,Jehanabad,Rajasthan,1975-01-13,premium
+CUST00105,Aayush Bath,gaurangi41@example.org,8787885022,Gaya,Karnataka,1960-04-04,individual
+CUST00106,Ekavir Dara,nisha93@example.com,1455526387,Raipur,Karnataka,1997-04-02,premium
+CUST00107,Harshil Konda,kloke@example.org,0503184655,Patiala,Madhya Pradesh,1979-10-24,premium
+CUST00108,Girish Pradhan,xsubramanian@example.com,1864354684,Meerut,Madhya Pradesh,1983-09-18,individual
+CUST00109,Daniel Vasa,widisha70@example.org,5534080784,Bellary,Madhya Pradesh,1977-07-22,business
+CUST00110,Ikbal Jhaveri,edwinamruta@example.com,6135729187,Karawal Nagar,Karnataka,1991-11-20,individual
+CUST00111,Rushil Raj,kandayutika@example.net,2322097239,Bally,Gujarat,1981-05-02,individual
+CUST00112,Advaith Gupta,chatresh62@example.com,8935221550,Bhopal,Gujarat,1976-05-28,individual
+CUST00113,Urishilla Brahmbhatt,ichakrabarti@example.com,7444243650,Karnal,Maharashtra,2000-06-27,premium
+CUST00114,Rehaan Chaudhuri,wahab19@example.net,2400210412,Bangalore,Delhi,2005-06-02,business
+CUST00115,Laban Kapoor,chanakya73@example.net,8357012732,Ramgarh,Telangana,1991-09-30,premium
+CUST00116,Ayaan Varghese,chaddev@example.org,8016536260,Bhavnagar,Delhi,1984-05-29,premium
+CUST00117,Ladli Sahni,enair@example.net,6401425102,Barasat,Tamil Nadu,1988-06-19,premium
+CUST00118,Falan Bala,nicholaskothari@example.org,1426520647,Darbhanga,Rajasthan,1975-01-14,premium
+CUST00119,Mitali Swaminathan,jacksondugal@example.com,9934593673,Parbhani,Gujarat,1978-03-06,individual
+CUST00120,Nihal Pau,qbrar@example.com,4624968333,Panihati,Madhya Pradesh,2004-01-27,business
+CUST00121,Ethan Varkey,abdultripathi@example.net,8650374282,Shahjahanpur,Gujarat,1962-09-08,business
+CUST00122,Wridesh Narain,loyalronith@example.org,9801328643,Muzaffarnagar,Rajasthan,1960-09-20,individual
+CUST00123,Omisha Parmar,kmutti@example.com,1765615893,Muzaffarpur,Maharashtra,1973-12-18,premium
+CUST00124,Dalaja Hora,ekapad60@example.com,8687492709,Tirunelveli,Maharashtra,1979-05-03,business
+CUST00125,Ranveer Kant,sandalchanakya@example.net,5676421130,Sasaram,Tamil Nadu,1994-05-21,business
+CUST00126,Balhaar Garde,birsamesh@example.com,8177204250,Navi Mumbai,Madhya Pradesh,1990-10-11,business
+CUST00127,Kashvi Mishra,gauri77@example.com,1281572278,Vijayanagaram,Madhya Pradesh,1989-02-25,individual
+CUST00128,Amruta Agrawal,qbuch@example.net,9375581776,Satara,Gujarat,1976-10-14,premium
+CUST00129,Kashvi Borra,bishakhakata@example.com,5160385884,Jalgaon,Maharashtra,1995-09-13,business
+CUST00130,Max Guha,dadabhavya@example.com,4709931448,Rourkela,Madhya Pradesh,2003-12-13,premium
+CUST00131,Rohan Balakrishnan,majumdartejas@example.com,7948973702,Nagercoil,Tamil Nadu,1973-08-24,business
+CUST00132,Nakul Handa,ndey@example.org,6133969878,Kishanganj,Madhya Pradesh,1993-07-24,business
+CUST00133,Unnati Khurana,gardecaleb@example.org,7572943555,Hosur,Rajasthan,2003-06-29,business
+CUST00134,Ekaraj Sundaram,wdara@example.com,7501950555,Pimpri-Chinchwad,Maharashtra,1984-08-05,premium
+CUST00135,Logan Trivedi,atwalthomas@example.com,5863613988,Burhanpur,Karnataka,1962-04-18,individual
+CUST00136,Vincent Zachariah,azadnatarajan@example.org,3829701984,Madanapalle,Telangana,1999-02-07,individual
+CUST00137,Warinder Kala,sameshsingh@example.net,7738325931,Lucknow,Tamil Nadu,1996-08-03,individual
+CUST00138,Upadhriti Peri,sampathdivya@example.net,7906306331,Raiganj,Gujarat,1972-08-03,business
+CUST00139,Abhiram Choudhary,champak75@example.org,8836214198,Durg,Maharashtra,2001-12-21,premium
+CUST00140,Divya Saha,frederick57@example.com,4244781574,Gulbarga,Telangana,2001-06-17,individual
+CUST00141,Aarav Gupta,gpandit@example.net,2350160589,Aurangabad,Tamil Nadu,1972-06-20,premium
+CUST00142,Irya Chandran,draman@example.org,9227842057,Thrissur,Karnataka,1997-09-23,business
+CUST00143,Andrew Chaudry,tanveer92@example.org,5052337742,Sirsa,Karnataka,1965-09-20,premium
+CUST00144,Gayathri Sodhi,ppandey@example.org,9689988874,Tirupati,Telangana,1978-11-01,premium
+CUST00145,Rayaan Mittal,baradubika@example.com,0445398316,Kottayam,Tamil Nadu,1993-12-12,business
+CUST00146,Nisha Saxena,ysaran@example.net,1113505892,Etawah,Gujarat,1979-06-06,business
+CUST00147,Bhanumati Bhakta,siddharth07@example.net,2746416637,Ratlam,Tamil Nadu,2002-02-26,premium
+CUST00148,Krishna Sahni,pallavi78@example.net,9366926124,Sasaram,Gujarat,1967-01-12,premium
+CUST00149,Dalbir Pillai,bkapadia@example.net,8237905303,Bardhaman,Telangana,1988-08-09,premium
+CUST00150,Ikshita Datta,bsane@example.net,1250580012,Ahmednagar,Tamil Nadu,2004-07-23,business
+CUST00151,Zayyan Arya,atharvswaminathan@example.net,4349035606,Khandwa,Telangana,1983-06-26,business
+CUST00152,Zansi Doctor,vyanjanaranganathan@example.net,7682962029,Sirsa,Rajasthan,1966-06-25,premium
+CUST00153,Edhitha Morar,anmol12@example.org,3832728882,Ludhiana,Rajasthan,1960-01-24,business
+CUST00154,Dalbir Bala,zansi30@example.net,3549915803,Aizawl,Madhya Pradesh,1984-06-21,individual
+CUST00155,Meera Puri,bnaik@example.org,2566299374,Etawah,Delhi,2002-10-14,individual
+CUST00156,Maanas Nath,qabil94@example.net,9758647614,North Dumdum,Rajasthan,1979-06-10,business
+CUST00157,Owen Biswas,ekrishnamurthy@example.org,5304753651,Shimla,Telangana,1961-04-21,premium
+CUST00158,Peter Wali,siddharth48@example.org,3845718091,Nandyal,Gujarat,1994-07-23,premium
+CUST00159,Vedika Dutta,akale@example.com,7986841465,Madhyamgram,Maharashtra,1981-05-04,business
+CUST00160,Maya Mohanty,iradhar@example.net,0689511564,Nanded,Telangana,1972-05-01,premium
+CUST00161,Vrishti Buch,tandonnandini@example.com,8145981660,Loni,Telangana,2005-03-28,individual
+CUST00162,Champak Chaudhry,nisharamanathan@example.com,0151814627,Tiruchirappalli,Karnataka,1986-11-19,individual
+CUST00163,Sai Dhaliwal,qchawla@example.net,5161395041,Nizamabad,Madhya Pradesh,1962-05-05,premium
+CUST00164,Siddharth Gupta,urmidalal@example.com,6415492189,Thoothukudi,Maharashtra,1987-07-28,premium
+CUST00165,Osha Basu,ysangha@example.net,7343092213,Mehsana,Delhi,2004-06-06,business
+CUST00166,Robert Bhavsar,isaac26@example.com,6931155177,Kirari Suleman Nagar,Telangana,1990-11-04,premium
+CUST00167,Akshay Ganesh,vivaandugar@example.org,9508860829,Bhubaneswar,Gujarat,1976-05-01,business
+CUST00168,Reyansh Kar,ksengupta@example.org,9973834151,Bhalswa Jahangir Pur,Tamil Nadu,1978-04-22,individual
+CUST00169,Chakradev Chacko,tankyochana@example.net,2030452663,Kalyan-Dombivli,Karnataka,1974-08-29,individual
+CUST00170,Ubika Dubey,pillayria@example.net,0005144057,Guwahati,Gujarat,1965-08-11,individual
+CUST00171,Amol Bhatt,agastyasinghal@example.net,5411130058,Madhyamgram,Tamil Nadu,1969-01-12,business
+CUST00172,Warhi Nanda,sinhawaida@example.net,5654238998,Tumkur,Gujarat,2001-01-18,premium
+CUST00173,Tamanna Parekh,dhriti87@example.org,2932021621,Nagaon,Rajasthan,1994-10-08,premium
+CUST00174,Aahana Butala,mohinibanik@example.com,0056220328,Jehanabad,Telangana,1962-11-16,premium
+CUST00175,Vedika Kalita,purohitfitan@example.org,3849978104,Gudivada,Madhya Pradesh,1975-10-16,business
+CUST00176,Daksha Bera,nidra92@example.net,4648995232,Rewa,Gujarat,1969-04-05,business
+CUST00177,Advika Trivedi,lsami@example.net,0847317774,Guna,Madhya Pradesh,1995-09-11,business
+CUST00178,Jhalak Om,zinalkamdar@example.com,4168939483,Ichalkaranji,Gujarat,1972-11-06,business
+CUST00179,Balvan Saran,hansjonathan@example.net,1659010268,Jamalpur,Maharashtra,1967-08-06,individual
+CUST00180,Samaksh Issac,manthantata@example.org,2992209103,Bokaro,Telangana,1974-07-04,individual
+CUST00181,Triya Tripathi,umangchoudhary@example.net,7748023600,Tumkur,Madhya Pradesh,1998-05-25,business
+CUST00182,Ekiya Chaudhary,kibenathaniel@example.net,1044136229,Proddatur,Tamil Nadu,1961-07-28,business
+CUST00183,Rudra Joshi,oommenyatan@example.net,6660698491,Raichur,Madhya Pradesh,1992-07-31,premium
+CUST00184,Nathan Seth,ubikaluthra@example.org,7220518650,Bhusawal,Gujarat,1971-08-25,individual
+CUST00185,Falguni Shere,saisandal@example.org,2207025885,Chandigarh,Delhi,1996-05-22,individual
+CUST00186,Hitesh Patla,fiyazdevan@example.com,0932529672,Deoghar,Tamil Nadu,1969-04-09,premium
+CUST00187,Champak Gade,chandanthony@example.org,9203685954,Avadi,Maharashtra,1997-12-15,premium
+CUST00188,Keya Sem,abeer53@example.net,1209719387,Indore,Telangana,1970-06-17,premium
+CUST00189,Abeer Date,glall@example.org,1362412150,Bhind,Karnataka,1972-12-05,premium
+CUST00190,Dev Sundaram,utaneja@example.com,5131185152,Aligarh,Maharashtra,1980-01-19,premium
+CUST00191,Lohit Rao,saanvidoctor@example.net,0771548862,Agartala,Maharashtra,1976-05-11,premium
+CUST00192,Vivaan Batta,vermaudarsh@example.com,0957607053,Ambattur,Gujarat,2004-09-19,business
+CUST00193,Rachana Dash,guptariya@example.net,2613241587,Jaipur,Karnataka,1963-06-23,business
+CUST00194,Anya Pai,kohlijeremiah@example.org,7267294662,Sultan Pur Majra,Telangana,1962-12-31,business
+CUST00195,Yash Morar,ekansh18@example.net,2666440707,Mango,Madhya Pradesh,1969-11-07,individual
+CUST00196,Jagdish Mallick,charitamangal@example.com,6568385690,Haridwar,Telangana,1981-04-14,individual
+CUST00197,Yatan Keer,bhandarigirik@example.net,0382253863,Visakhapatnam,Maharashtra,1980-11-14,business
+CUST00198,Chandani Bajaj,nikitamagar@example.org,5916205713,Gangtok,Tamil Nadu,1960-11-16,business
+CUST00199,Yadavi Bora,bishakhabir@example.net,2140062322,Bhopal,Madhya Pradesh,1981-07-13,individual
+CUST00200,Vivaan Dara,chauhannaksh@example.net,6509990185,Jamnagar,Rajasthan,1987-06-16,premium

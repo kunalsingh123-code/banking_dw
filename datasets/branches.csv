@@ -1,0 +1,101 @@
+branch_id,branch_name,city,state,branch_type
+BR0001,Mutti Bank Branch,Faridabad,Madhya Pradesh,metro
+BR0002,Dua Bank Branch,Jalgaon,Karnataka,metro
+BR0003,Subramaniam Bank Branch,Sonipat,Delhi,urban
+BR0004,Sharma Bank Branch,Bareilly,Maharashtra,rural
+BR0005,Kala Bank Branch,Durg,Maharashtra,urban
+BR0006,Garg Bank Branch,Saharsa,Telangana,urban
+BR0007,Kashyap Bank Branch,Hyderabad,Madhya Pradesh,urban
+BR0008,Loyal Bank Branch,Gurgaon,Telangana,metro
+BR0009,Nagy Bank Branch,Ranchi,Karnataka,metro
+BR0010,Cherian Bank Branch,Jamalpur,Maharashtra,metro
+BR0011,Gupta Bank Branch,Machilipatnam,Telangana,rural
+BR0012,Sama Bank Branch,Faridabad,Gujarat,metro
+BR0013,Vala Bank Branch,Tiruppur,Madhya Pradesh,rural
+BR0014,Buch Bank Branch,Jammu,Karnataka,metro
+BR0015,Mutti Bank Branch,Singrauli,Gujarat,urban
+BR0016,Dass Bank Branch,Udaipur,Maharashtra,rural
+BR0017,Yadav Bank Branch,Durg,Karnataka,metro
+BR0018,Dutta Bank Branch,Gopalpur,Tamil Nadu,metro
+BR0019,Parikh Bank Branch,Satna,Madhya Pradesh,rural
+BR0020,Sarin Bank Branch,Buxar,Tamil Nadu,rural
+BR0021,Bhasin Bank Branch,Jehanabad,Tamil Nadu,metro
+BR0022,Rattan Bank Branch,Thrissur,Gujarat,rural
+BR0023,Basu Bank Branch,Kolkata,Madhya Pradesh,urban
+BR0024,Aggarwal Bank Branch,Baranagar,Telangana,metro
+BR0025,Tara Bank Branch,Muzaffarnagar,Tamil Nadu,urban
+BR0026,Lata Bank Branch,Belgaum,Gujarat,metro
+BR0027,Krishnamurthy Bank Branch,Bhiwani,Rajasthan,urban
+BR0028,Srivastava Bank Branch,Belgaum,Tamil Nadu,rural
+BR0029,Grover Bank Branch,Sambhal,Karnataka,metro
+BR0030,Gole Bank Branch,South Dumdum,Telangana,urban
+BR0031,Kumar Bank Branch,Bangalore,Maharashtra,urban
+BR0032,Goswami Bank Branch,Singrauli,Madhya Pradesh,rural
+BR0033,Desai Bank Branch,Tiruppur,Karnataka,metro
+BR0034,Viswanathan Bank Branch,Kishanganj,Delhi,urban
+BR0035,Warrior Bank Branch,Sri Ganganagar,Delhi,urban
+BR0036,Mandal Bank Branch,Hospet,Telangana,rural
+BR0037,D’Alia Bank Branch,Bhagalpur,Telangana,metro
+BR0038,Sundaram Bank Branch,Anantapur,Gujarat,metro
+BR0039,Modi Bank Branch,Vadodara,Rajasthan,rural
+BR0040,Tailor Bank Branch,Allahabad,Karnataka,metro
+BR0041,Karan Bank Branch,Raichur,Delhi,metro
+BR0042,Saxena Bank Branch,Madhyamgram,Tamil Nadu,rural
+BR0043,Borah Bank Branch,Berhampur,Gujarat,metro
+BR0044,Sodhi Bank Branch,Rewa,Karnataka,metro
+BR0045,Mody Bank Branch,Kollam,Tamil Nadu,metro
+BR0046,Vyas Bank Branch,Tadepalligudem,Karnataka,urban
+BR0047,Chad Bank Branch,Eluru,Telangana,urban
+BR0048,Sarin Bank Branch,Indore,Telangana,urban
+BR0049,Bumb Bank Branch,Bahraich,Madhya Pradesh,rural
+BR0050,Kar Bank Branch,Ghaziabad,Maharashtra,rural
+BR0051,Bhatti Bank Branch,Vadodara,Tamil Nadu,urban
+BR0052,Shroff Bank Branch,Hospet,Gujarat,rural
+BR0053,Rastogi Bank Branch,Darbhanga,Karnataka,metro
+BR0054,Dass Bank Branch,Sagar,Delhi,rural
+BR0055,Raman Bank Branch,Kolhapur,Karnataka,rural
+BR0056,Merchant Bank Branch,Noida,Telangana,urban
+BR0057,Ben Bank Branch,Ajmer,Karnataka,urban
+BR0058,Rajan Bank Branch,Dehri,Delhi,urban
+BR0059,Hari Bank Branch,Sonipat,Delhi,metro
+BR0060,Pathak Bank Branch,Ulhasnagar,Telangana,rural
+BR0061,Dutt Bank Branch,Danapur,Rajasthan,urban
+BR0062,Gandhi Bank Branch,Amritsar,Rajasthan,rural
+BR0063,Rajagopal Bank Branch,Shahjahanpur,Rajasthan,metro
+BR0064,Bhavsar Bank Branch,Jaipur,Karnataka,urban
+BR0065,Bumb Bank Branch,Belgaum,Delhi,rural
+BR0066,Narain Bank Branch,Ambala,Delhi,rural
+BR0067,Luthra Bank Branch,Kottayam,Karnataka,metro
+BR0068,Nagarajan Bank Branch,Rajahmundry,Tamil Nadu,metro
+BR0069,Iyer Bank Branch,Buxar,Karnataka,urban
+BR0070,Srinivas Bank Branch,Asansol,Maharashtra,urban
+BR0071,Seth Bank Branch,Amroha,Tamil Nadu,rural
+BR0072,Vohra Bank Branch,Karnal,Rajasthan,rural
+BR0073,Chanda Bank Branch,Aizawl,Delhi,urban
+BR0074,Rastogi Bank Branch,Karawal Nagar,Maharashtra,metro
+BR0075,Goel Bank Branch,Pondicherry,Karnataka,metro
+BR0076,Tailor Bank Branch,Unnao,Telangana,rural
+BR0077,Mannan Bank Branch,Mangalore,Tamil Nadu,rural
+BR0078,Arya Bank Branch,Katni,Madhya Pradesh,rural
+BR0079,Yogi Bank Branch,Medininagar,Telangana,urban
+BR0080,Issac Bank Branch,Vasai-Virar,Rajasthan,urban
+BR0081,Soman Bank Branch,Rohtak,Delhi,metro
+BR0082,Mishra Bank Branch,Guntakal,Karnataka,rural
+BR0083,Virk Bank Branch,Chinsurah,Madhya Pradesh,rural
+BR0084,Choudhury Bank Branch,Chapra,Madhya Pradesh,urban
+BR0085,Sawhney Bank Branch,Bellary,Maharashtra,rural
+BR0086,Sunder Bank Branch,Jhansi,Gujarat,urban
+BR0087,Mutti Bank Branch,Amroha,Telangana,metro
+BR0088,Pandey Bank Branch,Mehsana,Tamil Nadu,rural
+BR0089,Garg Bank Branch,Navi Mumbai,Rajasthan,urban
+BR0090,Karnik Bank Branch,Bangalore,Gujarat,rural
+BR0091,Karan Bank Branch,Gudivada,Gujarat,urban
+BR0092,Kalla Bank Branch,Ambala,Tamil Nadu,rural
+BR0093,Tripathi Bank Branch,Chinsurah,Maharashtra,urban
+BR0094,Sachdev Bank Branch,Ludhiana,Telangana,rural
+BR0095,Sunder Bank Branch,Shahjahanpur,Madhya Pradesh,rural
+BR0096,Choudhry Bank Branch,Danapur,Telangana,metro
+BR0097,Tak Bank Branch,Ghaziabad,Telangana,metro
+BR0098,Chokshi Bank Branch,Hapur,Madhya Pradesh,rural
+BR0099,Wali Bank Branch,Burhanpur,Tamil Nadu,rural
+BR0100,Bhagat Bank Branch,Raiganj,Tamil Nadu,metro
